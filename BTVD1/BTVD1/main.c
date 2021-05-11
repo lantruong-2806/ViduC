@@ -8,7 +8,11 @@
 //char x =1; value x = 1. &x = dia chi cua x
 
 void main() {
-	int z = cong(1, 2);
+//	int z = cong(1, 2);
+//	char x = 10;
+//	char *ptrx;
+	char *str;
+	str = "hello world";//gan dia chi cua hello world cho str
 	/*uint8_t low = 0;
 	uint8_t high = 0;
 	low = (uint8_t)value;
@@ -39,6 +43,9 @@ void main() {
 	x = !10;// kq 0
 	x = !0; // kq 1*/
 }
+//char x = 10; // cap ngau nhien 1 vung nho 1 byte chua gia tri 10;
+//char *px;// hdh cap cho 1 vung nho co do dai 4 byte(win 32)
+//px = &x; // con tro px tro toi dia chi x
 
 // buitld chuong trinh CTR+F7| built + tao file exe F5
 // file exe nam tai thu muc debug
@@ -51,3 +58,4 @@ void main() {
 // ~ phep dao bit
 // phep toan logic && ( va) || ( hoac) ! (phu dinh))
 // bieu thuc dieu kien rut gon
+/*BAI TAP VIET HAM HOAN VI TRUYEN VAO DIA CHI CUA X Y. HOAN VI TRUC TIEP TREN DIA CHI*/
