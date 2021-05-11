@@ -1,0 +1,5 @@
+﻿  main.c
+h:\imic\00-c_embeded\btvd1\btvd1\main.c(11): warning C4189: 'z': local variable is initialized but not referenced
+  myLib.c
+  Generating Code...
+  BTVD1.vcxproj -> H:\IMIC\00-C_EMBEDED\BTVD1\x64\Debug\BTVD1.exe
