@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\imic\00-c_embeded\class_thongtincanhan\class_thongtincanhan\main.cpp(34): error C2512: 'Hocsinh': no appropriate default constructor available
+  h:\imic\00-c_embeded\class_thongtincanhan\class_thongtincanhan\main.cpp(19): note: see declaration of 'Hocsinh'
+h:\imic\00-c_embeded\class_thongtincanhan\class_thongtincanhan\main.cpp(37): error C3863: array type 'char [20]' is not assignable

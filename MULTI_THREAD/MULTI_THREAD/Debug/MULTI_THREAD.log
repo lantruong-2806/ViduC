@@ -1,0 +1,5 @@
+﻿  main.c
+h:\imic\00-c_embeded\multi_thread\multi_thread\main.c(16): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+h:\imic\00-c_embeded\multi_thread\multi_thread\main.c(23): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+h:\imic\00-c_embeded\multi_thread\multi_thread\main.c(23): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  MULTI_THREAD.vcxproj -> H:\IMIC\00-C_EMBEDED\MULTI_THREAD\Debug\MULTI_THREAD.exe

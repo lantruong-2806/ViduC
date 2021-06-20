@@ -1,0 +1,3 @@
+﻿  main.c
+h:\imic\00-c_embeded\btvd3\btvd3\main.c(7): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl *)(int,int)'
+  BTVD3.vcxproj -> H:\IMIC\00-C_EMBEDED\BTVD3\Debug\BTVD3.exe
