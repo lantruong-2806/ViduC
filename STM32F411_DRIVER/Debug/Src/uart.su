@@ -1,0 +1,6 @@
+uart.c:3:6:USART2_Init	4	static
+uart.c:29:5:USART2_write	16	static
+uart.c:37:5:USART2_read	4	static
+stdio.h:212:5:fgetc	24	static
+stdio.h:214:5:fputc	16	static
+uart.c:76:6:test_setup	8	static
