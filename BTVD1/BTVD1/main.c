@@ -2,7 +2,7 @@
 #include<stdint.h>
 #include"myLib.h"
 //uint16_t value = 0xabcd;
-
+thêm vô tu ronglua
 //unsigned char bien_toan_cuc=0;
 //unsigned char x = 0;
 //char x =1; value x = 1. &x = dia chi cua x
