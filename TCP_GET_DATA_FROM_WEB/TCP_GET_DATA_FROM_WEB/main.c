@@ -7,7 +7,7 @@ void main() {
 	Socket_Client_Init("54.192.22.61", 80);
 	Send("GET /v1/bpi/currentprice.json HTTP/1.1\r\nHost: api.coindesk.com\r\n\r\n");
 	Recv(buff_recieve, sizeof(buff_recieve));
-	//printf("[data from server %s\r\n]", buff_re);
+	printf("[data from server %s\r\n]", buff_recieve);
 	char * key_Start = "\"rate_float\":";
 	char key_End = '}';
 	char *buff = 0;
