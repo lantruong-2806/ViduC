@@ -15,7 +15,7 @@ void main() {
 //	char x = 10;
 //	char *ptrx;
 	char *str;
-	str = "hello world";//gan dia chi cua hello world cho str
+	str = "hello world";// sua doi tai day
 	/*uint8_t low = 0;
 	uint8_t high = 0;
 	low = (uint8_t)value;
