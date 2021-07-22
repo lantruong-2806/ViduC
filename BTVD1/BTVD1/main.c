@@ -45,7 +45,6 @@ void main() {
 	x = ~10;// kq 245
 	x = !10;// kq 0
 	x = !0; // kq 1*/
-}// sua them tai day
 //char x = 10; // cap ngau nhien 1 vung nho 1 byte chua gia tri 10;
 //char *px;// hdh cap cho 1 vung nho co do dai 4 byte(win 32)
 //px = &x; // con tro px tro toi dia chi x
